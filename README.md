@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+<!-- <img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/> -->
 
 ### 👨‍💻 关于我
 
