@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=欢迎来到我的GitHub个人主页！;我是diamond_cz+-+一名热爱编程的开发者" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/diamond-cz?label=关注者&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/diamond-cz?label=获赞&style=social" alt="GitHub星标" />
-  <!-- <img src="https://komarev.com/ghpvc/?username=diamond-cz&label=访问量&color=2F80ED&style=flat" alt="访问统计" /> -->
-</div>
-
 <br/>
 
 <img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
