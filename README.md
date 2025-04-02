@@ -23,7 +23,7 @@
 
 <br/>
 
-### 📈 活动图表
+<!-- ### 📈 活动图表 -->
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=diamond-cz&theme=tokyo-night&area=true&hide_border=true" width="100%"/> -->
 
