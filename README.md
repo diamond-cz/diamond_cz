@@ -27,14 +27,12 @@
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=diamond-cz&theme=tokyo-night&area=true&hide_border=true" width="100%"/> -->
 
-
 ### 💭 座右铭
 
 <div align="center">
   <i>「少年听雨歌楼上，红烛昏罗帐。」</i>
 </div>
 
-<br/>
 <!-- 感谢访问，颜色中国色取值（碧清：#5cb3cc）：http://zhongguose.com/ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
