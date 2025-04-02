@@ -12,10 +12,7 @@
 - 🎯 追求：探索发现新的技术栈
 - 🎯 目标：贡献更多兼具实用性和有趣味的开源项目
 
-
 <br/>
-
-
 
 ### 📊 GitHub 统计
 
@@ -24,12 +21,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamond-cz&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
 </div>
 
-
+<br/>
 
 ### 📈 活动图表
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=diamond-cz&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-
 
 
 ### 💭 座右铭
